@@ -1,0 +1,16 @@
+export const C = {
+  blue:      '#4794D7',
+  blueSoft:  '#EBF4FC',
+  blueMid:   'rgba(71,148,215,0.15)',
+  black:     '#0D0D0D',
+  gray:      '#6B7280',
+  grayLt:    '#E5E8EC',
+  bg:        '#F5F6F8',
+  white:     '#FFFFFF',
+  green:     '#15803D',
+  greenSoft: '#F0FDF4',
+  red:       '#DC2626',
+  redSoft:   '#FEF2F2',
+  amber:     '#D97706',
+  amberSoft: '#FFFBEB',
+}
